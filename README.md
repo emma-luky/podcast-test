@@ -1,4 +1,4 @@
-*My follow along repo for career essentials in GitHub Professional Certificate*
+*My follow along repo for Career Essentials in GitHub Professional Certificate*
 
 # The Future in Tech
 
