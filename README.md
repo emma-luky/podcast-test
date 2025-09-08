@@ -1,3 +1,5 @@
+*My follow along repo for career essentials in GitHub Professional Certificate*
+
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
